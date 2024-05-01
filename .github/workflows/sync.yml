@@ -1,3 +1,4 @@
+# Sync Actions
 name: Sync Files
 on:
   push:
