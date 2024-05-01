@@ -1,4 +1,4 @@
-# Sync Actions
+# Sync Actions WORKFLOW
 name: Sync Files
 on:
   push:
