@@ -1,3 +1,3 @@
 PatrickAmbrosso/Publish-Demo:
-    - source: snippets/
-      destination: content/
+  - source: snippets/
+    destination: content/
